@@ -1,7 +1,7 @@
 @extends('dashboard.app')
 @section('content')
 <h1>
-    <small>Usuarios</small>
+    <small>Usuarios holi</small>
 </h1>
 <ol class="breadcrumb">
     <li><a href="#"><i class="fa fa-dashboard"></i> Level</a></li>
